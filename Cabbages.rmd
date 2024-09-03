@@ -47,6 +47,14 @@ Looking at the box plot I can tell that the c52 has more VitC than c39. C39 rang
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
+
+
+I can tell from the graph that the c39 and the c52 hold around the same amount of VitC, but c52 has more than c32. The Q1 is more in range than Q3 making Q3 batch of c39 have less VitC than c52. 
+
+
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
