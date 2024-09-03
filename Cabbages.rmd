@@ -35,6 +35,14 @@ veggy <- cabbages
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+
+```{r}
+boxplot(VitC~Cult,data=veggy)
+```
+
+Looking at the box plot I can tell that the c52 has more VitC than c39. C39 ranges from 40-50 while c52 ranges from 60-70 in VitC. 
+
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
