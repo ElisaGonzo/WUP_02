@@ -73,7 +73,7 @@ The mean for c39 is over 10% lower than c52. Making the c52 VitC result a lot hi
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
 
- Looking at the box plot I can tell that the c52 has more VitC than c39. C39 ranges from 40-50 while c52 ranges from 60-70 in VitC. I can tell from the graph that the c39 and the c52 hold around the same amount of VitC, but c52 has more than c32. The Q1 is more in range than Q3 making Q3 batch of c39 have less VitC than c52.The mean for c39 is over 10% lower than c52. Making the c52 VitC result a lot higher than c39. The average interval being half as much as its partner. My hypothesis is that c52 has more VitC than c39. Throughout my findings the same result is apparent. C339 has a lower VitC level than c52. 
+ Looking at the box plot I can tell that the c52 has more VitC than c39. C39 ranges from 40-50 while c52 ranges from 60-70 in VitC. I can tell from the graph that the c39 and the c52 hold around the same amount of VitC, but c52 has more than c32. The Q1 is more in range than Q3 making Q3 batch of c39 have less VitC than c52.The mean for c39 is over 10% lower than c52. Making the c52 VitC result a lot higher than c39. The average interval being half as much as its partner. My hypothesis is that c52 has more VitC than c39. Throughout my findings the same result is apparent. C39 has a lower VitC level than c52. 
 
 
 
